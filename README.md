@@ -8,5 +8,6 @@
  <img style="height: 25px;" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <H5>미리보기</H5>
+<img src="https://user-images.githubusercontent.com/81173010/204531759-390dac8f-aca6-4969-a8cd-87bcee3a1013.png">
 
 <a href="https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla">자료출처</a>
